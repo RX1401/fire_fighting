@@ -1,1 +1,2 @@
 # fire_fighting
+Designed and built an autonomous/remote-controlled firefighting robot using Arduino UNO, L298N motor drivers, and HC-05 Bluetooth module. The robot detects flames via IR flame sensors, navigates using DC motors, and extinguishes fires with a water pump/servo-mounted fan. Control is enabled through a custom Android app via Bluetooth, allowing manual override or autonomous operation.
